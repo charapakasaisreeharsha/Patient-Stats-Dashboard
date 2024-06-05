@@ -6,21 +6,21 @@
 
 3. Detailed specialty level & age profile analysis
 
-**Data Scope**
+**#Data Scope**
 
-2018-2021
+--> 2018-2021
 
-**Metrics Required**
+**#Metrics Required**
 
 1. Average & Median Waiting List
 
 2. Current Total Wait List
 
-**Views Required**
+**#Views Required**
 
 1. Summary Page
 
-**Preview**
+**#Preview**
 ![Screenshot 2024-06-05 153012](https://github.com/charapakasaisreeharsha/Patient-Stats-Dashboard/assets/142214147/245688de-17b3-4d05-a6cf-b164a37a8a82)
 ![Screen![Screenshot 2024-06-05 153103](https://github.com/charapakasaisreeharsha/Patient-Stats-Dashboard/assets/142214147/eae1d98a-fb9f-493d-9b28-c24aa3dfe783)
 shot 2024-06-05 153217](https://github.com/charapakasaisreeharsha/Patient-Stats-Dashboard/assets/142214147/d541854f-3b2e-492f-adcb-25fe6330c250)
